@@ -1,0 +1,58 @@
+.clear {
+	clear:both;
+}
+
+.circle {
+	font-family: 'florante_at_lauraregular';
+    font-weight: bold;
+    position: relative;
+    border-radius: 100%;
+    background: #1170F5;
+    border: 1px solid #F7F7F7;
+    width: 120px;
+    height: 130px;
+    margin: 2px 10px;
+    text-align: center;
+    color: #000000;
+    font-size: 10px;
+    line-height: 16px;
+    cursor: pointer;
+}
+
+.slogan {
+	font-family: 'florante_at_lauraregular';
+	font-weight: bold;
+	font-size: 20px;
+
+}
+
+.links {
+		font-family: 'florante_at_lauraregular';
+}
+
+.links a {
+	color:black;
+	font-size: 15px;
+	border-bottom: 1px solid #dfdfdf;
+}
+
+header {
+border-top: 9px solid #222222;
+}
+
+hr {
+	clear:both;
+}
+
+.brewery {
+	font-family: 'action_manbold';
+	font-size: 20px
+}
+
+
+
+.img-responsive2 {
+	font-family: 'action_manbold';
+	height: 100px;
+	width: 80px;
+}
