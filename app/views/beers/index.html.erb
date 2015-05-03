@@ -3,3 +3,16 @@
 <br />
 <br />
 <br />
+
+
+<% @beers.each do |brewery| %>
+<div>
+	<h1><%= brewery.name %>
+	<i><%= brewery.town %></i>
+	<p><%= brewery.description %></p>
+
+</div>
+
+<hr />
+<% end %>
+
